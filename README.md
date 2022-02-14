@@ -1,2 +1,5 @@
 # Customer-Analytics-ML
-Machine LEarning bases customer data segmentation and analytics.
+Machine Learning bases customer data segmentation and analytics.
+
+
+#To run the code open the corresponding collab file or run it in a notebook.
